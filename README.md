@@ -108,7 +108,7 @@ It includes information such as:
 
 This visualization compares the total bookings between **City Hotels** and **Resort Hotels**.
 
-![Most Reserved Hotel](images/Most%20Reserved%20Hotel.png)
+![Most Reserved Hotel](Images/Most%20Reserved%20Hotel.png)
 
 ---
 
@@ -116,7 +116,7 @@ This visualization compares the total bookings between **City Hotels** and **Res
 
 Shows the percentage distribution of different customer types such as Transient, Contract, Group, and Transient-Party.
 
-![Distribution of Customer Type](images/Distribution%20of%20Customer%20Type.png)
+![Distribution of Customer Type](Images/Distribution%20of%20Customer%20Type.png)
 
 ---
 
