@@ -100,3 +100,70 @@ It includes information such as:
 - Very few guests were repeat customers, indicating an opportunity to improve customer retention.
 
 ---
+---
+
+# 📊 Visualizations
+
+### 1. Most Reserved Hotel
+
+This visualization compares the total bookings between **City Hotels** and **Resort Hotels**.
+
+![Most Reserved Hotel](images/Most%20Reserved%20Hotel.png)
+
+---
+
+### 2. Distribution of Customer Type
+
+Shows the percentage distribution of different customer types such as Transient, Contract, Group, and Transient-Party.
+
+![Distribution of Customer Type](images/Distribution%20of%20Customer%20Type.png)
+
+---
+
+### 3. Top Ten Booking Agents
+
+Displays the top 10 travel agents based on the number of hotel bookings.
+
+![Top Ten Agents](images/Top%20Ten%20Agents.png)
+
+---
+
+### 4. Year-wise Bookings
+
+Illustrates the booking trend across different years.
+
+![Year Wise Bookings](images/Year%20Wise%20Bookings.png)
+
+---
+
+### 5. Total Stay Length Analysis
+
+Shows how the number of bookings varies with the total duration of stay.
+
+![Total Stay Length](images/Total%20Stay%20Length.png)
+
+---
+
+### 6. Average Daily Rate (ADR) Across Each Month
+
+Shows how the Average Daily Rate changes throughout the year for different hotel types.
+
+![ADR Across Each Month](images/ADR%20across%20Each%20Month.png)
+
+---
+
+### 7. ADR Across Market Segment
+
+Compares the Average Daily Rate across different market segments.
+
+![ADR Across Market Segment](images/ADR%20across%20Market%20Segment.png)
+
+---
+
+### 8. Correlation Heatmap
+
+Displays the correlation between numerical variables in the dataset to identify important relationships.
+
+![Correlation Heatmap](images/Correlation%20Heatmap.png)
+
+
